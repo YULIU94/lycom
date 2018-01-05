@@ -1,4 +1,4 @@
-# AngularFourMEANSeed
+# Lycom (personal website)
 
 After you clone this repository and run "npm install"
 To start the project
