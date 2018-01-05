@@ -1,22 +1,26 @@
 # Lycom (personal website)
 
-After you clone this repository and run "npm install"
-To start the project
-Open two terminals, One to start the front end, One to start the backend
+This is a personal website based on a seed MEAN Stack (Angular 4) application.
 
-~ npm start
+<h1>Required Installations on local machine</h1>
 
+<img src="https://excellentwebworld.com/wp-content/uploads/2017/09/images-2.jpg" height=190px>
+<ol>
+  <li>MongoDB</li>
+  <li>ExpressJS</li>
+    <li>Angular CLI</li>
+  <li>nodeJS</li>
+</ol>  
 
-~ nodemon server.js
+<h1> Running the app locally </h1>
+<ol>
+  <li>Make sure you run mongodb locally</li>
+  <li>Run front end</li>
+  <li>Run back end</li>
+</ol>  
 
 Front end will run on `http://localhost:4200/`
 Server will run on port 3100. Specified in server.js and in environment.ts files
-
-
-
-
-
-
 
 ## Development server
 
@@ -42,3 +46,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+<h1>Author</h1>
+<p>Yu Liu</p>
+<ul>
+  <li>https://github.com/YULIU94</li>
+  <li>https://www.linkedin.com/in/yuliu17/</li>
+</ul>
