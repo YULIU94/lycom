@@ -2,7 +2,7 @@
 
 This is a personal website based on a seed MEAN Stack (Angular 4) application.
 
-<h1>Required Installations on local machine</h1>
+## Required Installations on local machine
 
 <img src="https://excellentwebworld.com/wp-content/uploads/2017/09/images-2.jpg" height=190px>
 <ol>
@@ -12,7 +12,7 @@ This is a personal website based on a seed MEAN Stack (Angular 4) application.
   <li>nodeJS</li>
 </ol>  
 
-<h1> Running the app locally </h1>
+## Running the app locally
 <ol>
   <li>Make sure you run mongodb locally</li>
   <li>Run front end</li>
